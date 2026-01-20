@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hesiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hesiz&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesiz&layout=compact&theme=dark&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=.hesiz&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=.hesiz&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" />
   <a href="https://t.me/hesizz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@hesizz&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=@hesizz&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" alt="telegram" />
   </a>
 </div>
 
