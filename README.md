@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="left">Hi! My name is hesiz and I'm a Reverse Engineer from Mexico</h2>
 
-<!--
-**hesiz/hesiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hesiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=.hesiz&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <a href="https://t.me/hesizz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@hesizz&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  </a>
+</div>
+
+###
